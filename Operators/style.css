@@ -1,0 +1,22 @@
+h1 {
+  background-color: blueviolet;
+  padding: 10px 22px;
+  margin-top: 25px;
+  color: #fff;
+  font-size: 22px;
+  align-content: center;
+}
+button {
+  background-color: pink;
+  color: #000;
+  font-size: 16px;
+  padding: 8px 22px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  transition: 0.25s;
+}
+button:hover {
+  background-color: palevioletred;
+  border: 1px solid #ccc;
+  color: #fff;
+}
